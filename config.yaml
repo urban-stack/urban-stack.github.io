@@ -4,7 +4,6 @@ theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
-publishDir: 'docs'
 params:
   copyright: '&copy;2022 Urban Stack'
   description: Describe your website
